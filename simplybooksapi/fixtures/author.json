@@ -1,0 +1,14 @@
+[
+  {
+      "model": "simplybooksapi.author",
+      "pk": 1,
+      "fields": {
+          "email": "olivier@gmail.com",
+          "first_name": "olivier",
+          "last_name": "African",
+	        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com%2FAfrica-Olivier-F%25C3%25B6llmi%2Fdp%2F081094832X&psig=AOvVaw0ol98wJPCmrEFw4aBfWcH5&ust=1736815470728000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKinkYq88YoDFQAAAAAdAAAAABAE",
+	        "favorite": true,
+          "uid": 1
+      }
+  }
+]
