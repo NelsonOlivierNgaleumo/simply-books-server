@@ -4,6 +4,6 @@ class Author(models.Model):
   email = models.EmailField(max_length=15)
   first_name = models.CharField(max_length=50)
   last_name = models.CharField(max_length=50)
-  image = models.ImageField()
+  image = models.URLField(max_length=400)
   favorite = models.BooleanField()
-  uid = models.PositiveIntegerField()
+  uid = models.CharField(max_length=50)
