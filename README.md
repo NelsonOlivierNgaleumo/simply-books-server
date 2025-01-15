@@ -1,4 +1,26 @@
+### API DOCUMENTATION LINK
+LINK : https://documenter.getpostman.com/view/35134770/2sAYQXpYcL
+
 ### READ ME SIMPLY-BOOKS-SERVER ASSESSMENT
+
+### Features
+-CRUD on Books
+-CRUD on Authors
+-CRUD on Genres
+-CRUD on BookGenres
+
+### AS A USER
+- Anyone can be a user
+- I can create a book, update a book, view all the books in the database library, delete a book
+- I can see the book and its author
+
+### Link to Loom Video to showcase Simply Books Server App
+https://www.loom.com/share/465d02d7778f41cd80faca1aed7f8e3d
+
+### Link to My Github repository
+https://github.com/NelsonOlivierNgaleumo/simply-books-server
+
+### NSS Assessment Instructions
 
 ### BE Definition of Done
 A feature or task is considered "done" when:
