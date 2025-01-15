@@ -20,6 +20,15 @@ https://www.loom.com/share/465d02d7778f41cd80faca1aed7f8e3d
 ### Link to My Github repository
 https://github.com/NelsonOlivierNgaleumo/simply-books-server
 
+### PROJECT SETUP
+- Clone the template repository.
+- Navigate to the created directory using cd.
+- Activate the Pipenv environment with pipenv shell.
+- Install the dependencies using pipenv install.
+- Open the project in Visual Studio Code.
+- Ensure that the correct interpreter is selected.
+- Implement the code.
+
 ### NSS Assessment Instructions
 
 ### BE Definition of Done
